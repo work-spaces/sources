@@ -17,7 +17,6 @@ load("1.4.3.star", source_archive_1_4_3_star = "source_archive")
 load("1.4.11.star", source_archive_1_4_11_star = "source_archive")
 load("1.4.10.star", source_archive_1_4_10_star = "source_archive")
 load("1.4.1.star", source_archive_1_4_1_star = "source_archive")
-load("source_archives.star", source_archive_source_archives_star = "source_archive")
 load("1.4.17.star", source_archive_1_4_17_star = "source_archive")
 load("1.4.6.star", source_archive_1_4_6_star = "source_archive")
 load("1.4.7.star", source_archive_1_4_7_star = "source_archive")
@@ -42,7 +41,6 @@ sources = {
     "1.4.11": source_archive_1_4_11_star,
     "1.4.10": source_archive_1_4_10_star,
     "1.4.1": source_archive_1_4_1_star,
-    "source_archives": source_archive_source_archives_star,
     "1.4.17": source_archive_1_4_17_star,
     "1.4.6": source_archive_1_4_6_star,
     "1.4.7": source_archive_1_4_7_star,
