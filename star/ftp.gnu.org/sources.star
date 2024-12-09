@@ -101,7 +101,6 @@ load("gnu-pw-mgr/sources.star", gnu_pw_mgr = "sources")
 load("chess/sources.star", chess = "sources")
 load("glibc/sources.star", glibc = "sources")
 load("m4/sources.star", m4 = "sources")
-load("8sync/sources.star", 8sync = "sources")
 load("gnuprologjava/sources.star", gnuprologjava = "sources")
 load("ddrescue/sources.star", ddrescue = "sources")
 load("cursynth/sources.star", cursynth = "sources")
@@ -122,13 +121,10 @@ load("barcode/sources.star", barcode = "sources")
 load("gengetopt/sources.star", gengetopt = "sources")
 load("gnumach/sources.star", gnumach = "sources")
 load("dap/sources.star", dap = "sources")
-load("3dldf/sources.star", 3dldf = "sources")
 load("datamash/sources.star", datamash = "sources")
 load("gnucap/sources.star", gnucap = "sources")
 load("findutils/sources.star", findutils = "sources")
-load("commonc++/sources.star", commonc++ = "sources")
 load("autogen/sources.star", autogen = "sources")
-load("global/sources.star", global = "sources")
 load("gnurobots/sources.star", gnurobots = "sources")
 load("dominion/sources.star", dominion = "sources")
 load("bison/sources.star", bison = "sources")
@@ -250,7 +246,6 @@ sources = {
     "chess": chess,
     "glibc": glibc,
     "m4": m4,
-    "8sync": 8sync,
     "gnuprologjava": gnuprologjava,
     "ddrescue": ddrescue,
     "cursynth": cursynth,
@@ -271,13 +266,10 @@ sources = {
     "gengetopt": gengetopt,
     "gnumach": gnumach,
     "dap": dap,
-    "3dldf": 3dldf,
     "datamash": datamash,
     "gnucap": gnucap,
     "findutils": findutils,
-    "commonc++": commonc++,
     "autogen": autogen,
-    "global": global,
     "gnurobots": gnurobots,
     "dominion": dominion,
     "bison": bison,
