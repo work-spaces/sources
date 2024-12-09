@@ -11,7 +11,7 @@ load("0.60.8.star", source_archive_0_60_8_star = "source_archive")
 load("0.60.4.star", source_archive_0_60_4_star = "source_archive")
 load("0.60.7.star", source_archive_0_60_7_star = "source_archive")
 load("0.60.6.star", source_archive_0_60_6_star = "source_archive")
-load("0.60-vc++-20041101.star", source_archive_0_60_vc++_20041101_star = "source_archive")
+load("0.60-vc++-20041101.star", source_archive_0_60_vcpp_20041101_star = "source_archive")
 load("0.60.1.star", source_archive_0_60_1_star = "source_archive")
 load("0.60.star", source_archive_0_60_star = "source_archive")
 load("0.60.1.1.star", source_archive_0_60_1_1_star = "source_archive")
@@ -29,7 +29,7 @@ sources = {
     "0.60.4": source_archive_0_60_4_star,
     "0.60.7": source_archive_0_60_7_star,
     "0.60.6": source_archive_0_60_6_star,
-    "0.60-vc++-20041101": source_archive_0_60_vc++_20041101_star,
+    "0.60-vc++-20041101": source_archive_0_60_vcpp_20041101_star,
     "0.60.1": source_archive_0_60_1_star,
     "0.60": source_archive_0_60_star,
     "0.60.1.1": source_archive_0_60_1_1_star,
