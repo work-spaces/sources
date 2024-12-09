@@ -6,7 +6,7 @@ load("sources-origins.star", "sources_origins")
 
 def add_source_archive(name, repo, version, suffix):
     """
-    Adds a source archive to the source_archives using a maps file.
+    Adds a source archive to the sources using a maps file.
 
     Args:
         name: name of the github release as owner_repo
@@ -21,7 +21,7 @@ def add_source_archive(name, repo, version, suffix):
     owner = map["settings"]["owner"]
     url = map["url"].replace("$REPO", repo).replace("$VERSION", version).replace("$SUFFIX", suffix)
 
-    source_archive_directory = "source_archives/{}/{}/{}".format(domain, owner, repo)
+    source_archive_directory = "star/{}/{}/{}".format(domain, owner, repo)
     source_archive_path = "{}/{}.star".format(source_archive_directory, version)
 
     if fs.exists(source_archive_path):
@@ -61,7 +61,7 @@ def add_source_archive(name, repo, version, suffix):
 
     if curl_download["status"] != 0:
         script.print(curl_download["stderr"])
-        script.print("Failed to download asset for: {}".format(source_archive_path))
+        script.print("Failed to download asset for: {} from {}".format(source_archive_path, url))
         return
 
     sha256 = hash.compute_sha256_from_file("tmp/{}".format(asset_name))

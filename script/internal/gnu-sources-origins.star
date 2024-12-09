@@ -3,7 +3,7 @@
 sources_origins = {
   "ftp.gnu.org_gnu_": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": ""
     },
     "url": "https://ftp.gnu.org/gnu//$REPO-$VERSION.$SUFFIX",
@@ -11,7 +11,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_3dldf": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "3dldf"
     },
     "url": "https://ftp.gnu.org/gnu/3dldf/$REPO-$VERSION.$SUFFIX",
@@ -65,7 +65,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_8sync": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "8sync"
     },
     "url": "https://ftp.gnu.org/gnu/8sync/$REPO-$VERSION.$SUFFIX",
@@ -104,7 +104,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_GNUinfo": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "GNUinfo"
     },
     "url": "https://ftp.gnu.org/gnu/GNUinfo/$REPO-$VERSION.$SUFFIX",
@@ -112,7 +112,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_GNUsBulletins": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "GNUsBulletins"
     },
     "url": "https://ftp.gnu.org/gnu/GNUsBulletins/$REPO-$VERSION.$SUFFIX",
@@ -120,7 +120,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_Licenses": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "Licenses"
     },
     "url": "https://ftp.gnu.org/gnu/Licenses/$REPO-$VERSION.$SUFFIX",
@@ -128,7 +128,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_MailingListArchives": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "MailingListArchives"
     },
     "url": "https://ftp.gnu.org/gnu/MailingListArchives/$REPO-$VERSION.$SUFFIX",
@@ -136,7 +136,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_MicrosPorts": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "MicrosPorts"
     },
     "url": "https://ftp.gnu.org/gnu/MicrosPorts/$REPO-$VERSION.$SUFFIX",
@@ -144,7 +144,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_a2ps": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "a2ps"
     },
     "url": "https://ftp.gnu.org/gnu/a2ps/$REPO-$VERSION.$SUFFIX",
@@ -208,7 +208,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_acct": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "acct"
     },
     "url": "https://ftp.gnu.org/gnu/acct/$REPO-$VERSION.$SUFFIX",
@@ -272,7 +272,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_acm": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "acm"
     },
     "url": "https://ftp.gnu.org/gnu/acm/$REPO-$VERSION.$SUFFIX",
@@ -286,7 +286,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_adns": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "adns"
     },
     "url": "https://ftp.gnu.org/gnu/adns/$REPO-$VERSION.$SUFFIX",
@@ -360,7 +360,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_alive": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "alive"
     },
     "url": "https://ftp.gnu.org/gnu/alive/$REPO-$VERSION.$SUFFIX",
@@ -389,7 +389,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_anastasis": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "anastasis"
     },
     "url": "https://ftp.gnu.org/gnu/anastasis/$REPO-$VERSION.$SUFFIX",
@@ -478,7 +478,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_anubis": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "anubis"
     },
     "url": "https://ftp.gnu.org/gnu/anubis/$REPO-$VERSION.$SUFFIX",
@@ -517,7 +517,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_apl": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "apl"
     },
     "url": "https://ftp.gnu.org/gnu/apl/$REPO-$VERSION.$SUFFIX",
@@ -636,7 +636,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_archimedes": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "archimedes"
     },
     "url": "https://ftp.gnu.org/gnu/archimedes/$REPO-$VERSION.$SUFFIX",
@@ -760,7 +760,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_aris": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "aris"
     },
     "url": "https://ftp.gnu.org/gnu/aris/$REPO-$VERSION.$SUFFIX",
@@ -829,7 +829,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_artanis": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "artanis"
     },
     "url": "https://ftp.gnu.org/gnu/artanis/$REPO-$VERSION.$SUFFIX",
@@ -913,7 +913,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_aspell": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "aspell"
     },
     "url": "https://ftp.gnu.org/gnu/aspell/$REPO-$VERSION.$SUFFIX",
@@ -997,7 +997,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_aspell-dict-csb": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "aspell-dict-csb"
     },
     "url": "https://ftp.gnu.org/gnu/aspell-dict-csb/$REPO-$VERSION.$SUFFIX",
@@ -1005,7 +1005,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_aspell-dict-ga": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "aspell-dict-ga"
     },
     "url": "https://ftp.gnu.org/gnu/aspell-dict-ga/$REPO-$VERSION.$SUFFIX",
@@ -1013,7 +1013,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_aspell-dict-hr": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "aspell-dict-hr"
     },
     "url": "https://ftp.gnu.org/gnu/aspell-dict-hr/$REPO-$VERSION.$SUFFIX",
@@ -1021,7 +1021,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_aspell-dict-is": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "aspell-dict-is"
     },
     "url": "https://ftp.gnu.org/gnu/aspell-dict-is/$REPO-$VERSION.$SUFFIX",
@@ -1029,7 +1029,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_aspell-dict-it": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "aspell-dict-it"
     },
     "url": "https://ftp.gnu.org/gnu/aspell-dict-it/$REPO-$VERSION.$SUFFIX",
@@ -1037,7 +1037,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_aspell-dict-sk": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "aspell-dict-sk"
     },
     "url": "https://ftp.gnu.org/gnu/aspell-dict-sk/$REPO-$VERSION.$SUFFIX",
@@ -1045,7 +1045,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_auctex": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "auctex"
     },
     "url": "https://ftp.gnu.org/gnu/auctex/$REPO-$VERSION.$SUFFIX",
@@ -1324,7 +1324,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_autoconf": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "autoconf"
     },
     "url": "https://ftp.gnu.org/gnu/autoconf/$REPO-$VERSION.$SUFFIX",
@@ -1508,7 +1508,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_autoconf-archive": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "autoconf-archive"
     },
     "url": "https://ftp.gnu.org/gnu/autoconf-archive/$REPO-$VERSION.$SUFFIX",
@@ -1772,7 +1772,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_autogen": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "autogen"
     },
     "url": "https://ftp.gnu.org/gnu/autogen/$REPO-$VERSION.$SUFFIX",
@@ -1806,7 +1806,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_automake": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "automake"
     },
     "url": "https://ftp.gnu.org/gnu/automake/$REPO-$VERSION.$SUFFIX",
@@ -2310,7 +2310,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_avl": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "avl"
     },
     "url": "https://ftp.gnu.org/gnu/avl/$REPO-$VERSION.$SUFFIX",
@@ -2359,7 +2359,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_ballandpaddle": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "ballandpaddle"
     },
     "url": "https://ftp.gnu.org/gnu/ballandpaddle/$REPO-$VERSION.$SUFFIX",
@@ -2388,7 +2388,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_barcode": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "barcode"
     },
     "url": "https://ftp.gnu.org/gnu/barcode/$REPO-$VERSION.$SUFFIX",
@@ -2452,7 +2452,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_bash": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "bash"
     },
     "url": "https://ftp.gnu.org/gnu/bash/$REPO-$VERSION.$SUFFIX",
@@ -2836,7 +2836,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_bayonne": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "bayonne"
     },
     "url": "https://ftp.gnu.org/gnu/bayonne/$REPO-$VERSION.$SUFFIX",
@@ -3420,7 +3420,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_bc": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "bc"
     },
     "url": "https://ftp.gnu.org/gnu/bc/$REPO-$VERSION.$SUFFIX",
@@ -3459,7 +3459,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_binutils": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "binutils"
     },
     "url": "https://ftp.gnu.org/gnu/binutils/$REPO-$VERSION.$SUFFIX",
@@ -3818,7 +3818,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_bison": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "bison"
     },
     "url": "https://ftp.gnu.org/gnu/bison/$REPO-$VERSION.$SUFFIX",
@@ -4412,7 +4412,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_bool": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "bool"
     },
     "url": "https://ftp.gnu.org/gnu/bool/$REPO-$VERSION.$SUFFIX",
@@ -4446,7 +4446,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_bpel2owfn": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "bpel2owfn"
     },
     "url": "https://ftp.gnu.org/gnu/bpel2owfn/$REPO-$VERSION.$SUFFIX",
@@ -4454,7 +4454,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_c-graph": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "c-graph"
     },
     "url": "https://ftp.gnu.org/gnu/c-graph/$REPO-$VERSION.$SUFFIX",
@@ -4473,7 +4473,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_c-intro-and-ref": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "c-intro-and-ref"
     },
     "url": "https://ftp.gnu.org/gnu/c-intro-and-ref/$REPO-$VERSION.$SUFFIX",
@@ -4492,7 +4492,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_ccaudio": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "ccaudio"
     },
     "url": "https://ftp.gnu.org/gnu/ccaudio/$REPO-$VERSION.$SUFFIX",
@@ -4796,7 +4796,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_ccd2cue": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "ccd2cue"
     },
     "url": "https://ftp.gnu.org/gnu/ccd2cue/$REPO-$VERSION.$SUFFIX",
@@ -4820,7 +4820,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_ccrtp": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "ccrtp"
     },
     "url": "https://ftp.gnu.org/gnu/ccrtp/$REPO-$VERSION.$SUFFIX",
@@ -5099,7 +5099,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_ccscript": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "ccscript"
     },
     "url": "https://ftp.gnu.org/gnu/ccscript/$REPO-$VERSION.$SUFFIX",
@@ -5443,7 +5443,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_cfengine": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "cfengine"
     },
     "url": "https://ftp.gnu.org/gnu/cfengine/$REPO-$VERSION.$SUFFIX",
@@ -5527,7 +5527,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_cflow": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "cflow"
     },
     "url": "https://ftp.gnu.org/gnu/cflow/$REPO-$VERSION.$SUFFIX",
@@ -5596,7 +5596,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_cgicc": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "cgicc"
     },
     "url": "https://ftp.gnu.org/gnu/cgicc/$REPO-$VERSION.$SUFFIX",
@@ -5750,7 +5750,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_chess": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "chess"
     },
     "url": "https://ftp.gnu.org/gnu/chess/$REPO-$VERSION.$SUFFIX",
@@ -5864,7 +5864,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_cim": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "cim"
     },
     "url": "https://ftp.gnu.org/gnu/cim/$REPO-$VERSION.$SUFFIX",
@@ -5883,7 +5883,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_classpath": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "classpath"
     },
     "url": "https://ftp.gnu.org/gnu/classpath/$REPO-$VERSION.$SUFFIX",
@@ -6117,7 +6117,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_classpathx": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "classpathx"
     },
     "url": "https://ftp.gnu.org/gnu/classpathx/$REPO-$VERSION.$SUFFIX",
@@ -6211,7 +6211,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_clisp": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "clisp"
     },
     "url": "https://ftp.gnu.org/gnu/clisp/$REPO-$VERSION.$SUFFIX",
@@ -6219,7 +6219,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_combine": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "combine"
     },
     "url": "https://ftp.gnu.org/gnu/combine/$REPO-$VERSION.$SUFFIX",
@@ -6248,7 +6248,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_commonc++": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "commonc++"
     },
     "url": "https://ftp.gnu.org/gnu/commonc++/$REPO-$VERSION.$SUFFIX",
@@ -7172,7 +7172,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_commoncpp": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "commoncpp"
     },
     "url": "https://ftp.gnu.org/gnu/commoncpp/$REPO-$VERSION.$SUFFIX",
@@ -8096,7 +8096,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_complexity": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "complexity"
     },
     "url": "https://ftp.gnu.org/gnu/complexity/$REPO-$VERSION.$SUFFIX",
@@ -8195,7 +8195,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_config": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "config"
     },
     "url": "https://ftp.gnu.org/gnu/config/$REPO-$VERSION.$SUFFIX",
@@ -8203,7 +8203,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_coreutils": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "coreutils"
     },
     "url": "https://ftp.gnu.org/gnu/coreutils/$REPO-$VERSION.$SUFFIX",
@@ -8657,7 +8657,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_cpio": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "cpio"
     },
     "url": "https://ftp.gnu.org/gnu/cpio/$REPO-$VERSION.$SUFFIX",
@@ -8726,7 +8726,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_cppi": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "cppi"
     },
     "url": "https://ftp.gnu.org/gnu/cppi/$REPO-$VERSION.$SUFFIX",
@@ -8760,7 +8760,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_cssc": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "cssc"
     },
     "url": "https://ftp.gnu.org/gnu/cssc/$REPO-$VERSION.$SUFFIX",
@@ -8799,7 +8799,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_cursynth": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "cursynth"
     },
     "url": "https://ftp.gnu.org/gnu/cursynth/$REPO-$VERSION.$SUFFIX",
@@ -8823,7 +8823,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_dap": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "dap"
     },
     "url": "https://ftp.gnu.org/gnu/dap/$REPO-$VERSION.$SUFFIX",
@@ -8932,7 +8932,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_datamash": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "datamash"
     },
     "url": "https://ftp.gnu.org/gnu/datamash/$REPO-$VERSION.$SUFFIX",
@@ -9001,7 +9001,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_ddd": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "ddd"
     },
     "url": "https://ftp.gnu.org/gnu/ddd/$REPO-$VERSION.$SUFFIX",
@@ -9020,7 +9020,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_ddrescue": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "ddrescue"
     },
     "url": "https://ftp.gnu.org/gnu/ddrescue/$REPO-$VERSION.$SUFFIX",
@@ -9064,7 +9064,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_dejagnu": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "dejagnu"
     },
     "url": "https://ftp.gnu.org/gnu/dejagnu/$REPO-$VERSION.$SUFFIX",
@@ -9153,7 +9153,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_denemo": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "denemo"
     },
     "url": "https://ftp.gnu.org/gnu/denemo/$REPO-$VERSION.$SUFFIX",
@@ -9347,7 +9347,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_dico": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "dico"
     },
     "url": "https://ftp.gnu.org/gnu/dico/$REPO-$VERSION.$SUFFIX",
@@ -9471,7 +9471,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_diction": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "diction"
     },
     "url": "https://ftp.gnu.org/gnu/diction/$REPO-$VERSION.$SUFFIX",
@@ -9495,7 +9495,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_diffutils": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "diffutils"
     },
     "url": "https://ftp.gnu.org/gnu/diffutils/$REPO-$VERSION.$SUFFIX",
@@ -9599,7 +9599,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_direvent": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "direvent"
     },
     "url": "https://ftp.gnu.org/gnu/direvent/$REPO-$VERSION.$SUFFIX",
@@ -9633,7 +9633,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_dismal": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "dismal"
     },
     "url": "https://ftp.gnu.org/gnu/dismal/$REPO-$VERSION.$SUFFIX",
@@ -9641,7 +9641,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_dominion": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "dominion"
     },
     "url": "https://ftp.gnu.org/gnu/dominion/$REPO-$VERSION.$SUFFIX",
@@ -9660,7 +9660,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_easejs": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "easejs"
     },
     "url": "https://ftp.gnu.org/gnu/easejs/$REPO-$VERSION.$SUFFIX",
@@ -9719,7 +9719,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_ed": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "ed"
     },
     "url": "https://ftp.gnu.org/gnu/ed/$REPO-$VERSION.$SUFFIX",
@@ -9743,7 +9743,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_edma": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "edma"
     },
     "url": "https://ftp.gnu.org/gnu/edma/$REPO-$VERSION.$SUFFIX",
@@ -9782,7 +9782,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_electric": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "electric"
     },
     "url": "https://ftp.gnu.org/gnu/electric/$REPO-$VERSION.$SUFFIX",
@@ -9846,7 +9846,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_emacs": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "emacs"
     },
     "url": "https://ftp.gnu.org/gnu/emacs/$REPO-$VERSION.$SUFFIX",
@@ -10095,7 +10095,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_emms": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "emms"
     },
     "url": "https://ftp.gnu.org/gnu/emms/$REPO-$VERSION.$SUFFIX",
@@ -10189,7 +10189,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_enscript": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "enscript"
     },
     "url": "https://ftp.gnu.org/gnu/enscript/$REPO-$VERSION.$SUFFIX",
@@ -10243,7 +10243,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_fdisk": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "fdisk"
     },
     "url": "https://ftp.gnu.org/gnu/fdisk/$REPO-$VERSION.$SUFFIX",
@@ -10327,7 +10327,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_ferret": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "ferret"
     },
     "url": "https://ftp.gnu.org/gnu/ferret/$REPO-$VERSION.$SUFFIX",
@@ -10366,7 +10366,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_findutils": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "findutils"
     },
     "url": "https://ftp.gnu.org/gnu/findutils/$REPO-$VERSION.$SUFFIX",
@@ -10490,7 +10490,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_fisicalab": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "fisicalab"
     },
     "url": "https://ftp.gnu.org/gnu/fisicalab/$REPO-$VERSION.$SUFFIX",
@@ -10524,7 +10524,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_flex": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "flex"
     },
     "url": "https://ftp.gnu.org/gnu/flex/$REPO-$VERSION.$SUFFIX",
@@ -10532,7 +10532,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_foliot": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "foliot"
     },
     "url": "https://ftp.gnu.org/gnu/foliot/$REPO-$VERSION.$SUFFIX",
@@ -10546,7 +10546,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_fontopia": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "fontopia"
     },
     "url": "https://ftp.gnu.org/gnu/fontopia/$REPO-$VERSION.$SUFFIX",
@@ -10605,7 +10605,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_fontutils": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "fontutils"
     },
     "url": "https://ftp.gnu.org/gnu/fontutils/$REPO-$VERSION.$SUFFIX",
@@ -10619,7 +10619,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_freedink": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "freedink"
     },
     "url": "https://ftp.gnu.org/gnu/freedink/$REPO-$VERSION.$SUFFIX",
@@ -10833,7 +10833,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_freefont": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "freefont"
     },
     "url": "https://ftp.gnu.org/gnu/freefont/$REPO-$VERSION.$SUFFIX",
@@ -10967,7 +10967,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_freeipmi": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "freeipmi"
     },
     "url": "https://ftp.gnu.org/gnu/freeipmi/$REPO-$VERSION.$SUFFIX",
@@ -11401,7 +11401,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_freetalk": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "freetalk"
     },
     "url": "https://ftp.gnu.org/gnu/freetalk/$REPO-$VERSION.$SUFFIX",
@@ -11430,7 +11430,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_g-golf": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "g-golf"
     },
     "url": "https://ftp.gnu.org/gnu/g-golf/$REPO-$VERSION.$SUFFIX",
@@ -11444,7 +11444,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_gama": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "gama"
     },
     "url": "https://ftp.gnu.org/gnu/gama/$REPO-$VERSION.$SUFFIX",
@@ -11738,7 +11738,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_garpd": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "garpd"
     },
     "url": "https://ftp.gnu.org/gnu/garpd/$REPO-$VERSION.$SUFFIX",
@@ -11746,7 +11746,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_gawk": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "gawk"
     },
     "url": "https://ftp.gnu.org/gnu/gawk/$REPO-$VERSION.$SUFFIX",
@@ -12230,7 +12230,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_gcal": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "gcal"
     },
     "url": "https://ftp.gnu.org/gnu/gcal/$REPO-$VERSION.$SUFFIX",
@@ -12329,7 +12329,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_gcc": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "gcc"
     },
     "url": "https://ftp.gnu.org/gnu/gcc/$REPO-$VERSION.$SUFFIX",
@@ -12468,7 +12468,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_gcide": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "gcide"
     },
     "url": "https://ftp.gnu.org/gnu/gcide/$REPO-$VERSION.$SUFFIX",
@@ -12522,7 +12522,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_gcl": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "gcl"
     },
     "url": "https://ftp.gnu.org/gnu/gcl/$REPO-$VERSION.$SUFFIX",
@@ -12616,7 +12616,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_gcompris": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "gcompris"
     },
     "url": "https://ftp.gnu.org/gnu/gcompris/$REPO-$VERSION.$SUFFIX",
@@ -12640,7 +12640,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_gdb": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "gdb"
     },
     "url": "https://ftp.gnu.org/gnu/gdb/$REPO-$VERSION.$SUFFIX",
@@ -13114,7 +13114,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_gdbm": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "gdbm"
     },
     "url": "https://ftp.gnu.org/gnu/gdbm/$REPO-$VERSION.$SUFFIX",
@@ -13243,7 +13243,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_gengen": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "gengen"
     },
     "url": "https://ftp.gnu.org/gnu/gengen/$REPO-$VERSION.$SUFFIX",
@@ -13287,7 +13287,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_gengetopt": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "gengetopt"
     },
     "url": "https://ftp.gnu.org/gnu/gengetopt/$REPO-$VERSION.$SUFFIX",
@@ -13416,7 +13416,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_gettext": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "gettext"
     },
     "url": "https://ftp.gnu.org/gnu/gettext/$REPO-$VERSION.$SUFFIX",
@@ -13775,7 +13775,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_gforth": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "gforth"
     },
     "url": "https://ftp.gnu.org/gnu/gforth/$REPO-$VERSION.$SUFFIX",
@@ -13824,7 +13824,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_ggradebook": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "ggradebook"
     },
     "url": "https://ftp.gnu.org/gnu/ggradebook/$REPO-$VERSION.$SUFFIX",
@@ -13838,7 +13838,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_ghostscript": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "ghostscript"
     },
     "url": "https://ftp.gnu.org/gnu/ghostscript/$REPO-$VERSION.$SUFFIX",
@@ -13962,7 +13962,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_gift": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "gift"
     },
     "url": "https://ftp.gnu.org/gnu/gift/$REPO-$VERSION.$SUFFIX",
@@ -14001,7 +14001,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_git": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "git"
     },
     "url": "https://ftp.gnu.org/gnu/git/$REPO-$VERSION.$SUFFIX",
@@ -14030,7 +14030,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_glibc": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "glibc"
     },
     "url": "https://ftp.gnu.org/gnu/glibc/$REPO-$VERSION.$SUFFIX",
@@ -14824,7 +14824,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_global": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "global"
     },
     "url": "https://ftp.gnu.org/gnu/global/$REPO-$VERSION.$SUFFIX",
@@ -15043,7 +15043,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_glpk": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "glpk"
     },
     "url": "https://ftp.gnu.org/gnu/glpk/$REPO-$VERSION.$SUFFIX",
@@ -15217,7 +15217,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_gmp": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "gmp"
     },
     "url": "https://ftp.gnu.org/gnu/gmp/$REPO-$VERSION.$SUFFIX",
@@ -15431,7 +15431,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_gnash": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "gnash"
     },
     "url": "https://ftp.gnu.org/gnu/gnash/$REPO-$VERSION.$SUFFIX",
@@ -15439,7 +15439,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_gnats": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "gnats"
     },
     "url": "https://ftp.gnu.org/gnu/gnats/$REPO-$VERSION.$SUFFIX",
@@ -15493,7 +15493,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_gnatsweb": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "gnatsweb"
     },
     "url": "https://ftp.gnu.org/gnu/gnatsweb/$REPO-$VERSION.$SUFFIX",
@@ -15532,7 +15532,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_gnu-c-manual": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "gnu-c-manual"
     },
     "url": "https://ftp.gnu.org/gnu/gnu-c-manual/$REPO-$VERSION.$SUFFIX",
@@ -15576,7 +15576,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_gnu-crypto": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "gnu-crypto"
     },
     "url": "https://ftp.gnu.org/gnu/gnu-crypto/$REPO-$VERSION.$SUFFIX",
@@ -15605,7 +15605,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_gnu-pw-mgr": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "gnu-pw-mgr"
     },
     "url": "https://ftp.gnu.org/gnu/gnu-pw-mgr/$REPO-$VERSION.$SUFFIX",
@@ -15714,7 +15714,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_gnuastro": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "gnuastro"
     },
     "url": "https://ftp.gnu.org/gnu/gnuastro/$REPO-$VERSION.$SUFFIX",
@@ -15848,7 +15848,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_gnubatch": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "gnubatch"
     },
     "url": "https://ftp.gnu.org/gnu/gnubatch/$REPO-$VERSION.$SUFFIX",
@@ -15917,7 +15917,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_gnubg": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "gnubg"
     },
     "url": "https://ftp.gnu.org/gnu/gnubg/$REPO-$VERSION.$SUFFIX",
@@ -15951,7 +15951,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_gnubik": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "gnubik"
     },
     "url": "https://ftp.gnu.org/gnu/gnubik/$REPO-$VERSION.$SUFFIX",
@@ -16000,7 +16000,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_gnuboot": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "gnuboot"
     },
     "url": "https://ftp.gnu.org/gnu/gnuboot/$REPO-$VERSION.$SUFFIX",
@@ -16008,7 +16008,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_gnucap": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "gnucap"
     },
     "url": "https://ftp.gnu.org/gnu/gnucap/$REPO-$VERSION.$SUFFIX",
@@ -16027,7 +16027,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_gnucobol": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "gnucobol"
     },
     "url": "https://ftp.gnu.org/gnu/gnucobol/$REPO-$VERSION.$SUFFIX",
@@ -16096,7 +16096,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_gnudos": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "gnudos"
     },
     "url": "https://ftp.gnu.org/gnu/gnudos/$REPO-$VERSION.$SUFFIX",
@@ -16175,7 +16175,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_gnugo": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "gnugo"
     },
     "url": "https://ftp.gnu.org/gnu/gnugo/$REPO-$VERSION.$SUFFIX",
@@ -16214,7 +16214,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_gnuit": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "gnuit"
     },
     "url": "https://ftp.gnu.org/gnu/gnuit/$REPO-$VERSION.$SUFFIX",
@@ -16243,7 +16243,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_gnujump": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "gnujump"
     },
     "url": "https://ftp.gnu.org/gnu/gnujump/$REPO-$VERSION.$SUFFIX",
@@ -16257,7 +16257,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_gnukart": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "gnukart"
     },
     "url": "https://ftp.gnu.org/gnu/gnukart/$REPO-$VERSION.$SUFFIX",
@@ -16271,7 +16271,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_gnumach": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "gnumach"
     },
     "url": "https://ftp.gnu.org/gnu/gnumach/$REPO-$VERSION.$SUFFIX",
@@ -16330,7 +16330,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_gnun": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "gnun"
     },
     "url": "https://ftp.gnu.org/gnu/gnun/$REPO-$VERSION.$SUFFIX",
@@ -16434,7 +16434,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_gnunet": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "gnunet"
     },
     "url": "https://ftp.gnu.org/gnu/gnunet/$REPO-$VERSION.$SUFFIX",
@@ -16813,7 +16813,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_gnupod": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "gnupod"
     },
     "url": "https://ftp.gnu.org/gnu/gnupod/$REPO-$VERSION.$SUFFIX",
@@ -16832,7 +16832,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_gnuprologjava": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "gnuprologjava"
     },
     "url": "https://ftp.gnu.org/gnu/gnuprologjava/$REPO-$VERSION.$SUFFIX",
@@ -16861,7 +16861,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_gnuradio": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "gnuradio"
     },
     "url": "https://ftp.gnu.org/gnu/gnuradio/$REPO-$VERSION.$SUFFIX",
@@ -16990,7 +16990,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_gnurobots": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "gnurobots"
     },
     "url": "https://ftp.gnu.org/gnu/gnurobots/$REPO-$VERSION.$SUFFIX",
@@ -17044,7 +17044,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_gnuschool": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "gnuschool"
     },
     "url": "https://ftp.gnu.org/gnu/gnuschool/$REPO-$VERSION.$SUFFIX",
@@ -17068,7 +17068,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_gnushogi": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "gnushogi"
     },
     "url": "https://ftp.gnu.org/gnu/gnushogi/$REPO-$VERSION.$SUFFIX",
@@ -17102,7 +17102,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_gnusound": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "gnusound"
     },
     "url": "https://ftp.gnu.org/gnu/gnusound/$REPO-$VERSION.$SUFFIX",
@@ -17110,7 +17110,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_gnuspeech": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "gnuspeech"
     },
     "url": "https://ftp.gnu.org/gnu/gnuspeech/$REPO-$VERSION.$SUFFIX",
@@ -17129,7 +17129,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_gnuspool": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "gnuspool"
     },
     "url": "https://ftp.gnu.org/gnu/gnuspool/$REPO-$VERSION.$SUFFIX",
@@ -17183,7 +17183,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_gnustep": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "gnustep"
     },
     "url": "https://ftp.gnu.org/gnu/gnustep/$REPO-$VERSION.$SUFFIX",
@@ -17191,7 +17191,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_gnutls": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "gnutls"
     },
     "url": "https://ftp.gnu.org/gnu/gnutls/$REPO-$VERSION.$SUFFIX",
@@ -17400,7 +17400,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_gnutrition": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "gnutrition"
     },
     "url": "https://ftp.gnu.org/gnu/gnutrition/$REPO-$VERSION.$SUFFIX",
@@ -17439,7 +17439,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_gnuzilla": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "gnuzilla"
     },
     "url": "https://ftp.gnu.org/gnu/gnuzilla/$REPO-$VERSION.$SUFFIX",
@@ -17447,7 +17447,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_goptical": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "goptical"
     },
     "url": "https://ftp.gnu.org/gnu/goptical/$REPO-$VERSION.$SUFFIX",
@@ -17461,7 +17461,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_gperf": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "gperf"
     },
     "url": "https://ftp.gnu.org/gnu/gperf/$REPO-$VERSION.$SUFFIX",
@@ -17500,7 +17500,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_gprofng-gui": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "gprofng-gui"
     },
     "url": "https://ftp.gnu.org/gnu/gprofng-gui/$REPO-$VERSION.$SUFFIX",
@@ -17519,7 +17519,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_gprolog": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "gprolog"
     },
     "url": "https://ftp.gnu.org/gnu/gprolog/$REPO-$VERSION.$SUFFIX",
@@ -17598,7 +17598,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_greg": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "greg"
     },
     "url": "https://ftp.gnu.org/gnu/greg/$REPO-$VERSION.$SUFFIX",
@@ -17632,7 +17632,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_grep": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "grep"
     },
     "url": "https://ftp.gnu.org/gnu/grep/$REPO-$VERSION.$SUFFIX",
@@ -17956,7 +17956,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_groff": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "groff"
     },
     "url": "https://ftp.gnu.org/gnu/groff/$REPO-$VERSION.$SUFFIX",
@@ -18005,7 +18005,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_grub": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "grub"
     },
     "url": "https://ftp.gnu.org/gnu/grub/$REPO-$VERSION.$SUFFIX",
@@ -18094,7 +18094,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_gsasl": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "gsasl"
     },
     "url": "https://ftp.gnu.org/gnu/gsasl/$REPO-$VERSION.$SUFFIX",
@@ -18308,7 +18308,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_gsegrafix": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "gsegrafix"
     },
     "url": "https://ftp.gnu.org/gnu/gsegrafix/$REPO-$VERSION.$SUFFIX",
@@ -18327,7 +18327,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_gsl": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "gsl"
     },
     "url": "https://ftp.gnu.org/gnu/gsl/$REPO-$VERSION.$SUFFIX",
@@ -18481,7 +18481,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_gslip": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "gslip"
     },
     "url": "https://ftp.gnu.org/gnu/gslip/$REPO-$VERSION.$SUFFIX",
@@ -18495,7 +18495,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_gsrc": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "gsrc"
     },
     "url": "https://ftp.gnu.org/gnu/gsrc/$REPO-$VERSION.$SUFFIX",
@@ -18564,7 +18564,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_gss": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "gss"
     },
     "url": "https://ftp.gnu.org/gnu/gss/$REPO-$VERSION.$SUFFIX",
@@ -18598,7 +18598,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_gtypist": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "gtypist"
     },
     "url": "https://ftp.gnu.org/gnu/gtypist/$REPO-$VERSION.$SUFFIX",
@@ -18717,7 +18717,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_guile": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "guile"
     },
     "url": "https://ftp.gnu.org/gnu/guile/$REPO-$VERSION.$SUFFIX",
@@ -19176,7 +19176,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_guile-cv": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "guile-cv"
     },
     "url": "https://ftp.gnu.org/gnu/guile-cv/$REPO-$VERSION.$SUFFIX",
@@ -19190,7 +19190,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_guile-debbugs": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "guile-debbugs"
     },
     "url": "https://ftp.gnu.org/gnu/guile-debbugs/$REPO-$VERSION.$SUFFIX",
@@ -19209,7 +19209,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_guile-gnome": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "guile-gnome"
     },
     "url": "https://ftp.gnu.org/gnu/guile-gnome/$REPO-$VERSION.$SUFFIX",
@@ -19217,7 +19217,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_guile-gtk": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "guile-gtk"
     },
     "url": "https://ftp.gnu.org/gnu/guile-gtk/$REPO-$VERSION.$SUFFIX",
@@ -19256,7 +19256,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_guile-ncurses": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "guile-ncurses"
     },
     "url": "https://ftp.gnu.org/gnu/guile-ncurses/$REPO-$VERSION.$SUFFIX",
@@ -19325,7 +19325,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_guile-opengl": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "guile-opengl"
     },
     "url": "https://ftp.gnu.org/gnu/guile-opengl/$REPO-$VERSION.$SUFFIX",
@@ -19344,7 +19344,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_guile-rpc": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "guile-rpc"
     },
     "url": "https://ftp.gnu.org/gnu/guile-rpc/$REPO-$VERSION.$SUFFIX",
@@ -19358,7 +19358,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_guile-sdl": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "guile-sdl"
     },
     "url": "https://ftp.gnu.org/gnu/guile-sdl/$REPO-$VERSION.$SUFFIX",
@@ -19387,7 +19387,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_guix": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "guix"
     },
     "url": "https://ftp.gnu.org/gnu/guix/$REPO-$VERSION.$SUFFIX",
@@ -19556,7 +19556,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_gv": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "gv"
     },
     "url": "https://ftp.gnu.org/gnu/gv/$REPO-$VERSION.$SUFFIX",
@@ -19645,7 +19645,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_gvpe": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "gvpe"
     },
     "url": "https://ftp.gnu.org/gnu/gvpe/$REPO-$VERSION.$SUFFIX",
@@ -19714,7 +19714,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_gwl": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "gwl"
     },
     "url": "https://ftp.gnu.org/gnu/gwl/$REPO-$VERSION.$SUFFIX",
@@ -19753,7 +19753,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_gxmessage": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "gxmessage"
     },
     "url": "https://ftp.gnu.org/gnu/gxmessage/$REPO-$VERSION.$SUFFIX",
@@ -19822,7 +19822,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_gzip": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "gzip"
     },
     "url": "https://ftp.gnu.org/gnu/gzip/$REPO-$VERSION.$SUFFIX",
@@ -19986,7 +19986,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_halifax": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "halifax"
     },
     "url": "https://ftp.gnu.org/gnu/halifax/$REPO-$VERSION.$SUFFIX",
@@ -20020,7 +20020,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_health": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "health"
     },
     "url": "https://ftp.gnu.org/gnu/health/$REPO-$VERSION.$SUFFIX",
@@ -20944,7 +20944,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_hello": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "hello"
     },
     "url": "https://ftp.gnu.org/gnu/hello/$REPO-$VERSION.$SUFFIX",
@@ -21038,7 +21038,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_help2man": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "help2man"
     },
     "url": "https://ftp.gnu.org/gnu/help2man/$REPO-$VERSION.$SUFFIX",
@@ -21442,7 +21442,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_hp2xx": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "hp2xx"
     },
     "url": "https://ftp.gnu.org/gnu/hp2xx/$REPO-$VERSION.$SUFFIX",
@@ -21501,7 +21501,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_httptunnel": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "httptunnel"
     },
     "url": "https://ftp.gnu.org/gnu/httptunnel/$REPO-$VERSION.$SUFFIX",
@@ -21530,7 +21530,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_hurd": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "hurd"
     },
     "url": "https://ftp.gnu.org/gnu/hurd/$REPO-$VERSION.$SUFFIX",
@@ -21564,7 +21564,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_hyperbole": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "hyperbole"
     },
     "url": "https://ftp.gnu.org/gnu/hyperbole/$REPO-$VERSION.$SUFFIX",
@@ -21668,7 +21668,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_icecat": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "icecat"
     },
     "url": "https://ftp.gnu.org/gnu/icecat/$REPO-$VERSION.$SUFFIX",
@@ -21676,7 +21676,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_idutils": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "idutils"
     },
     "url": "https://ftp.gnu.org/gnu/idutils/$REPO-$VERSION.$SUFFIX",
@@ -21725,7 +21725,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_ignuit": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "ignuit"
     },
     "url": "https://ftp.gnu.org/gnu/ignuit/$REPO-$VERSION.$SUFFIX",
@@ -21774,7 +21774,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_indent": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "indent"
     },
     "url": "https://ftp.gnu.org/gnu/indent/$REPO-$VERSION.$SUFFIX",
@@ -21883,7 +21883,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_inetutils": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "inetutils"
     },
     "url": "https://ftp.gnu.org/gnu/inetutils/$REPO-$VERSION.$SUFFIX",
@@ -22027,7 +22027,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_intlfonts": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "intlfonts"
     },
     "url": "https://ftp.gnu.org/gnu/intlfonts/$REPO-$VERSION.$SUFFIX",
@@ -22051,7 +22051,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_jacal": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "jacal"
     },
     "url": "https://ftp.gnu.org/gnu/jacal/$REPO-$VERSION.$SUFFIX",
@@ -22085,7 +22085,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_jami": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "jami"
     },
     "url": "https://ftp.gnu.org/gnu/jami/$REPO-$VERSION.$SUFFIX",
@@ -22149,7 +22149,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_jel": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "jel"
     },
     "url": "https://ftp.gnu.org/gnu/jel/$REPO-$VERSION.$SUFFIX",
@@ -22313,7 +22313,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_jtw": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "jtw"
     },
     "url": "https://ftp.gnu.org/gnu/jtw/$REPO-$VERSION.$SUFFIX",
@@ -22352,7 +22352,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_jwhois": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "jwhois"
     },
     "url": "https://ftp.gnu.org/gnu/jwhois/$REPO-$VERSION.$SUFFIX",
@@ -22411,7 +22411,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_kawa": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "kawa"
     },
     "url": "https://ftp.gnu.org/gnu/kawa/$REPO-$VERSION.$SUFFIX",
@@ -22660,7 +22660,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_less": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "less"
     },
     "url": "https://ftp.gnu.org/gnu/less/$REPO-$VERSION.$SUFFIX",
@@ -22794,7 +22794,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_libc": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "libc"
     },
     "url": "https://ftp.gnu.org/gnu/libc/$REPO-$VERSION.$SUFFIX",
@@ -23588,7 +23588,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_libcdio": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "libcdio"
     },
     "url": "https://ftp.gnu.org/gnu/libcdio/$REPO-$VERSION.$SUFFIX",
@@ -23897,7 +23897,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_libextractor": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "libextractor"
     },
     "url": "https://ftp.gnu.org/gnu/libextractor/$REPO-$VERSION.$SUFFIX",
@@ -24066,7 +24066,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_libffcall": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "libffcall"
     },
     "url": "https://ftp.gnu.org/gnu/libffcall/$REPO-$VERSION.$SUFFIX",
@@ -24110,7 +24110,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_libiconv": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "libiconv"
     },
     "url": "https://ftp.gnu.org/gnu/libiconv/$REPO-$VERSION.$SUFFIX",
@@ -24194,7 +24194,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_libidn": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "libidn"
     },
     "url": "https://ftp.gnu.org/gnu/libidn/$REPO-$VERSION.$SUFFIX",
@@ -24643,7 +24643,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_libmatheval": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "libmatheval"
     },
     "url": "https://ftp.gnu.org/gnu/libmatheval/$REPO-$VERSION.$SUFFIX",
@@ -24727,7 +24727,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_libmicrohttpd": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "libmicrohttpd"
     },
     "url": "https://ftp.gnu.org/gnu/libmicrohttpd/$REPO-$VERSION.$SUFFIX",
@@ -25156,7 +25156,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_libredwg": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "libredwg"
     },
     "url": "https://ftp.gnu.org/gnu/libredwg/$REPO-$VERSION.$SUFFIX",
@@ -25405,7 +25405,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_librejs": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "librejs"
     },
     "url": "https://ftp.gnu.org/gnu/librejs/$REPO-$VERSION.$SUFFIX",
@@ -25614,7 +25614,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_libsigsegv": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "libsigsegv"
     },
     "url": "https://ftp.gnu.org/gnu/libsigsegv/$REPO-$VERSION.$SUFFIX",
@@ -25698,7 +25698,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_libtasn1": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "libtasn1"
     },
     "url": "https://ftp.gnu.org/gnu/libtasn1/$REPO-$VERSION.$SUFFIX",
@@ -26207,7 +26207,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_libtool": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "libtool"
     },
     "url": "https://ftp.gnu.org/gnu/libtool/$REPO-$VERSION.$SUFFIX",
@@ -26471,7 +26471,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_libunistring": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "libunistring"
     },
     "url": "https://ftp.gnu.org/gnu/libunistring/$REPO-$VERSION.$SUFFIX",
@@ -26620,7 +26620,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_libxmi": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "libxmi"
     },
     "url": "https://ftp.gnu.org/gnu/libxmi/$REPO-$VERSION.$SUFFIX",
@@ -26639,7 +26639,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_lightning": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "lightning"
     },
     "url": "https://ftp.gnu.org/gnu/lightning/$REPO-$VERSION.$SUFFIX",
@@ -26733,7 +26733,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_lilypond": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "lilypond"
     },
     "url": "https://ftp.gnu.org/gnu/lilypond/$REPO-$VERSION.$SUFFIX",
@@ -26741,7 +26741,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_linux-libre": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "linux-libre"
     },
     "url": "https://ftp.gnu.org/gnu/linux-libre/$REPO-$VERSION.$SUFFIX",
@@ -26749,7 +26749,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_liquidwar6": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "liquidwar6"
     },
     "url": "https://ftp.gnu.org/gnu/liquidwar6/$REPO-$VERSION.$SUFFIX",
@@ -26793,7 +26793,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_lsh": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "lsh"
     },
     "url": "https://ftp.gnu.org/gnu/lsh/$REPO-$VERSION.$SUFFIX",
@@ -26812,7 +26812,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_m4": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "m4"
     },
     "url": "https://ftp.gnu.org/gnu/m4/$REPO-$VERSION.$SUFFIX",
@@ -26956,7 +26956,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_macchanger": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "macchanger"
     },
     "url": "https://ftp.gnu.org/gnu/macchanger/$REPO-$VERSION.$SUFFIX",
@@ -26975,7 +26975,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_mailman": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "mailman"
     },
     "url": "https://ftp.gnu.org/gnu/mailman/$REPO-$VERSION.$SUFFIX",
@@ -27024,7 +27024,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_mailutils": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "mailutils"
     },
     "url": "https://ftp.gnu.org/gnu/mailutils/$REPO-$VERSION.$SUFFIX",
@@ -27308,7 +27308,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_make": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "make"
     },
     "url": "https://ftp.gnu.org/gnu/make/$REPO-$VERSION.$SUFFIX",
@@ -27397,7 +27397,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_marst": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "marst"
     },
     "url": "https://ftp.gnu.org/gnu/marst/$REPO-$VERSION.$SUFFIX",
@@ -27446,7 +27446,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_maverik": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "maverik"
     },
     "url": "https://ftp.gnu.org/gnu/maverik/$REPO-$VERSION.$SUFFIX",
@@ -27560,7 +27560,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_mc": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "mc"
     },
     "url": "https://ftp.gnu.org/gnu/mc/$REPO-$VERSION.$SUFFIX",
@@ -27609,7 +27609,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_mcron": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "mcron"
     },
     "url": "https://ftp.gnu.org/gnu/mcron/$REPO-$VERSION.$SUFFIX",
@@ -27698,7 +27698,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_mcsim": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "mcsim"
     },
     "url": "https://ftp.gnu.org/gnu/mcsim/$REPO-$VERSION.$SUFFIX",
@@ -27817,7 +27817,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_mdk": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "mdk"
     },
     "url": "https://ftp.gnu.org/gnu/mdk/$REPO-$VERSION.$SUFFIX",
@@ -27825,7 +27825,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_mes": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "mes"
     },
     "url": "https://ftp.gnu.org/gnu/mes/$REPO-$VERSION.$SUFFIX",
@@ -27924,7 +27924,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_metahtml": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "metahtml"
     },
     "url": "https://ftp.gnu.org/gnu/metahtml/$REPO-$VERSION.$SUFFIX",
@@ -27988,7 +27988,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_micron": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "micron"
     },
     "url": "https://ftp.gnu.org/gnu/micron/$REPO-$VERSION.$SUFFIX",
@@ -28002,7 +28002,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_mifluz": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "mifluz"
     },
     "url": "https://ftp.gnu.org/gnu/mifluz/$REPO-$VERSION.$SUFFIX",
@@ -28041,7 +28041,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_mig": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "mig"
     },
     "url": "https://ftp.gnu.org/gnu/mig/$REPO-$VERSION.$SUFFIX",
@@ -28095,7 +28095,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_miscfiles": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "miscfiles"
     },
     "url": "https://ftp.gnu.org/gnu/miscfiles/$REPO-$VERSION.$SUFFIX",
@@ -28144,7 +28144,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_mit-scheme": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "mit-scheme"
     },
     "url": "https://ftp.gnu.org/gnu/mit-scheme/$REPO-$VERSION.$SUFFIX",
@@ -28152,7 +28152,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_moe": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "moe"
     },
     "url": "https://ftp.gnu.org/gnu/moe/$REPO-$VERSION.$SUFFIX",
@@ -28186,7 +28186,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_motti": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "motti"
     },
     "url": "https://ftp.gnu.org/gnu/motti/$REPO-$VERSION.$SUFFIX",
@@ -28280,7 +28280,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_mpc": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "mpc"
     },
     "url": "https://ftp.gnu.org/gnu/mpc/$REPO-$VERSION.$SUFFIX",
@@ -28329,7 +28329,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_mpfr": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "mpfr"
     },
     "url": "https://ftp.gnu.org/gnu/mpfr/$REPO-$VERSION.$SUFFIX",
@@ -28613,7 +28613,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_mpria": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "mpria"
     },
     "url": "https://ftp.gnu.org/gnu/mpria/$REPO-$VERSION.$SUFFIX",
@@ -28621,7 +28621,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_mtools": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "mtools"
     },
     "url": "https://ftp.gnu.org/gnu/mtools/$REPO-$VERSION.$SUFFIX",
@@ -28815,7 +28815,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_myserver": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "myserver"
     },
     "url": "https://ftp.gnu.org/gnu/myserver/$REPO-$VERSION.$SUFFIX",
@@ -28823,7 +28823,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_nano": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "nano"
     },
     "url": "https://ftp.gnu.org/gnu/nano/$REPO-$VERSION.$SUFFIX",
@@ -29702,7 +29702,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_ncurses": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "ncurses"
     },
     "url": "https://ftp.gnu.org/gnu/ncurses/$REPO-$VERSION.$SUFFIX",
@@ -29811,7 +29811,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_nettle": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "nettle"
     },
     "url": "https://ftp.gnu.org/gnu/nettle/$REPO-$VERSION.$SUFFIX",
@@ -29960,7 +29960,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_non-gnu": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "non-gnu"
     },
     "url": "https://ftp.gnu.org/gnu/non-gnu/$REPO-$VERSION.$SUFFIX",
@@ -29968,7 +29968,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_ocrad": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "ocrad"
     },
     "url": "https://ftp.gnu.org/gnu/ocrad/$REPO-$VERSION.$SUFFIX",
@@ -29997,7 +29997,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_octave": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "octave"
     },
     "url": "https://ftp.gnu.org/gnu/octave/$REPO-$VERSION.$SUFFIX",
@@ -30431,7 +30431,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_oleo": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "oleo"
     },
     "url": "https://ftp.gnu.org/gnu/oleo/$REPO-$VERSION.$SUFFIX",
@@ -30460,7 +30460,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_orgadoc": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "orgadoc"
     },
     "url": "https://ftp.gnu.org/gnu/orgadoc/$REPO-$VERSION.$SUFFIX",
@@ -30494,7 +30494,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_osip": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "osip"
     },
     "url": "https://ftp.gnu.org/gnu/osip/$REPO-$VERSION.$SUFFIX",
@@ -30638,7 +30638,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_paperclips": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "paperclips"
     },
     "url": "https://ftp.gnu.org/gnu/paperclips/$REPO-$VERSION.$SUFFIX",
@@ -30646,7 +30646,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_parallel": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "parallel"
     },
     "url": "https://ftp.gnu.org/gnu/parallel/$REPO-$VERSION.$SUFFIX",
@@ -30654,7 +30654,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_parted": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "parted"
     },
     "url": "https://ftp.gnu.org/gnu/parted/$REPO-$VERSION.$SUFFIX",
@@ -30808,7 +30808,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_patch": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "patch"
     },
     "url": "https://ftp.gnu.org/gnu/patch/$REPO-$VERSION.$SUFFIX",
@@ -30922,7 +30922,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_pem": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "pem"
     },
     "url": "https://ftp.gnu.org/gnu/pem/$REPO-$VERSION.$SUFFIX",
@@ -30941,7 +30941,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_pexec": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "pexec"
     },
     "url": "https://ftp.gnu.org/gnu/pexec/$REPO-$VERSION.$SUFFIX",
@@ -30960,7 +30960,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_pies": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "pies"
     },
     "url": "https://ftp.gnu.org/gnu/pies/$REPO-$VERSION.$SUFFIX",
@@ -31004,7 +31004,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_plotutils": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "plotutils"
     },
     "url": "https://ftp.gnu.org/gnu/plotutils/$REPO-$VERSION.$SUFFIX",
@@ -31078,7 +31078,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_poke": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "poke"
     },
     "url": "https://ftp.gnu.org/gnu/poke/$REPO-$VERSION.$SUFFIX",
@@ -31177,7 +31177,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_proxyknife": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "proxyknife"
     },
     "url": "https://ftp.gnu.org/gnu/proxyknife/$REPO-$VERSION.$SUFFIX",
@@ -31211,7 +31211,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_pspp": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "pspp"
     },
     "url": "https://ftp.gnu.org/gnu/pspp/$REPO-$VERSION.$SUFFIX",
@@ -31350,7 +31350,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_psychosynth": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "psychosynth"
     },
     "url": "https://ftp.gnu.org/gnu/psychosynth/$REPO-$VERSION.$SUFFIX",
@@ -31399,7 +31399,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_pth": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "pth"
     },
     "url": "https://ftp.gnu.org/gnu/pth/$REPO-$VERSION.$SUFFIX",
@@ -31588,7 +31588,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_radius": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "radius"
     },
     "url": "https://ftp.gnu.org/gnu/radius/$REPO-$VERSION.$SUFFIX",
@@ -31677,7 +31677,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_rcs": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "rcs"
     },
     "url": "https://ftp.gnu.org/gnu/rcs/$REPO-$VERSION.$SUFFIX",
@@ -31736,7 +31736,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_readline": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "readline"
     },
     "url": "https://ftp.gnu.org/gnu/readline/$REPO-$VERSION.$SUFFIX",
@@ -31955,7 +31955,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_recutils": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "recutils"
     },
     "url": "https://ftp.gnu.org/gnu/recutils/$REPO-$VERSION.$SUFFIX",
@@ -32014,7 +32014,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_reftex": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "reftex"
     },
     "url": "https://ftp.gnu.org/gnu/reftex/$REPO-$VERSION.$SUFFIX",
@@ -32043,7 +32043,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_remotecontrol": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "remotecontrol"
     },
     "url": "https://ftp.gnu.org/gnu/remotecontrol/$REPO-$VERSION.$SUFFIX",
@@ -32082,7 +32082,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_rottlog": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "rottlog"
     },
     "url": "https://ftp.gnu.org/gnu/rottlog/$REPO-$VERSION.$SUFFIX",
@@ -32106,7 +32106,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_rpge": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "rpge"
     },
     "url": "https://ftp.gnu.org/gnu/rpge/$REPO-$VERSION.$SUFFIX",
@@ -32120,7 +32120,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_rush": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "rush"
     },
     "url": "https://ftp.gnu.org/gnu/rush/$REPO-$VERSION.$SUFFIX",
@@ -32224,7 +32224,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_sather": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "sather"
     },
     "url": "https://ftp.gnu.org/gnu/sather/$REPO-$VERSION.$SUFFIX",
@@ -32248,7 +32248,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_sauce": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "sauce"
     },
     "url": "https://ftp.gnu.org/gnu/sauce/$REPO-$VERSION.$SUFFIX",
@@ -32267,7 +32267,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_savannah": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "savannah"
     },
     "url": "https://ftp.gnu.org/gnu/savannah/$REPO-$VERSION.$SUFFIX",
@@ -32275,7 +32275,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_scm": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "scm"
     },
     "url": "https://ftp.gnu.org/gnu/scm/$REPO-$VERSION.$SUFFIX",
@@ -32309,7 +32309,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_screen": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "screen"
     },
     "url": "https://ftp.gnu.org/gnu/screen/$REPO-$VERSION.$SUFFIX",
@@ -32453,7 +32453,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_sed": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "sed"
     },
     "url": "https://ftp.gnu.org/gnu/sed/$REPO-$VERSION.$SUFFIX",
@@ -32592,7 +32592,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_serveez": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "serveez"
     },
     "url": "https://ftp.gnu.org/gnu/serveez/$REPO-$VERSION.$SUFFIX",
@@ -32656,7 +32656,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_sharutils": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "sharutils"
     },
     "url": "https://ftp.gnu.org/gnu/sharutils/$REPO-$VERSION.$SUFFIX",
@@ -32775,7 +32775,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_shepherd": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "shepherd"
     },
     "url": "https://ftp.gnu.org/gnu/shepherd/$REPO-$VERSION.$SUFFIX",
@@ -32859,7 +32859,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_shishi": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "shishi"
     },
     "url": "https://ftp.gnu.org/gnu/shishi/$REPO-$VERSION.$SUFFIX",
@@ -32888,7 +32888,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_shmm": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "shmm"
     },
     "url": "https://ftp.gnu.org/gnu/shmm/$REPO-$VERSION.$SUFFIX",
@@ -32896,7 +32896,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_shtool": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "shtool"
     },
     "url": "https://ftp.gnu.org/gnu/shtool/$REPO-$VERSION.$SUFFIX",
@@ -33060,7 +33060,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_sipwitch": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "sipwitch"
     },
     "url": "https://ftp.gnu.org/gnu/sipwitch/$REPO-$VERSION.$SUFFIX",
@@ -33654,7 +33654,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_slib": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "slib"
     },
     "url": "https://ftp.gnu.org/gnu/slib/$REPO-$VERSION.$SUFFIX",
@@ -33688,7 +33688,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_smalltalk": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "smalltalk"
     },
     "url": "https://ftp.gnu.org/gnu/smalltalk/$REPO-$VERSION.$SUFFIX",
@@ -33892,7 +33892,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_solfege": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "solfege"
     },
     "url": "https://ftp.gnu.org/gnu/solfege/$REPO-$VERSION.$SUFFIX",
@@ -34456,7 +34456,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_spacechart": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "spacechart"
     },
     "url": "https://ftp.gnu.org/gnu/spacechart/$REPO-$VERSION.$SUFFIX",
@@ -34470,7 +34470,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_speedx": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "speedx"
     },
     "url": "https://ftp.gnu.org/gnu/speedx/$REPO-$VERSION.$SUFFIX",
@@ -34484,7 +34484,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_spell": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "spell"
     },
     "url": "https://ftp.gnu.org/gnu/spell/$REPO-$VERSION.$SUFFIX",
@@ -34503,7 +34503,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_sqltutor": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "sqltutor"
     },
     "url": "https://ftp.gnu.org/gnu/sqltutor/$REPO-$VERSION.$SUFFIX",
@@ -34527,7 +34527,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_src-highlite": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "src-highlite"
     },
     "url": "https://ftp.gnu.org/gnu/src-highlite/$REPO-$VERSION.$SUFFIX",
@@ -34751,7 +34751,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_stow": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "stow"
     },
     "url": "https://ftp.gnu.org/gnu/stow/$REPO-$VERSION.$SUFFIX",
@@ -34820,7 +34820,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_superopt": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "superopt"
     },
     "url": "https://ftp.gnu.org/gnu/superopt/$REPO-$VERSION.$SUFFIX",
@@ -34834,7 +34834,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_swbis": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "swbis"
     },
     "url": "https://ftp.gnu.org/gnu/swbis/$REPO-$VERSION.$SUFFIX",
@@ -34958,7 +34958,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_taler": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "taler"
     },
     "url": "https://ftp.gnu.org/gnu/taler/$REPO-$VERSION.$SUFFIX",
@@ -35617,7 +35617,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_tar": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "tar"
     },
     "url": "https://ftp.gnu.org/gnu/tar/$REPO-$VERSION.$SUFFIX",
@@ -35831,7 +35831,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_termcap": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "termcap"
     },
     "url": "https://ftp.gnu.org/gnu/termcap/$REPO-$VERSION.$SUFFIX",
@@ -35850,7 +35850,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_termutils": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "termutils"
     },
     "url": "https://ftp.gnu.org/gnu/termutils/$REPO-$VERSION.$SUFFIX",
@@ -35864,7 +35864,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_teseq": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "teseq"
     },
     "url": "https://ftp.gnu.org/gnu/teseq/$REPO-$VERSION.$SUFFIX",
@@ -35898,7 +35898,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_teximpatient": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "teximpatient"
     },
     "url": "https://ftp.gnu.org/gnu/teximpatient/$REPO-$VERSION.$SUFFIX",
@@ -35917,7 +35917,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_texinfo": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "texinfo"
     },
     "url": "https://ftp.gnu.org/gnu/texinfo/$REPO-$VERSION.$SUFFIX",
@@ -36201,7 +36201,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_time": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "time"
     },
     "url": "https://ftp.gnu.org/gnu/time/$REPO-$VERSION.$SUFFIX",
@@ -36225,7 +36225,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_tramp": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "tramp"
     },
     "url": "https://ftp.gnu.org/gnu/tramp/$REPO-$VERSION.$SUFFIX",
@@ -36619,7 +36619,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_trueprint": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "trueprint"
     },
     "url": "https://ftp.gnu.org/gnu/trueprint/$REPO-$VERSION.$SUFFIX",
@@ -36658,7 +36658,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_unifont": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "unifont"
     },
     "url": "https://ftp.gnu.org/gnu/unifont/$REPO-$VERSION.$SUFFIX",
@@ -36666,7 +36666,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_units": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "units"
     },
     "url": "https://ftp.gnu.org/gnu/units/$REPO-$VERSION.$SUFFIX",
@@ -36810,7 +36810,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_unrtf": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "unrtf"
     },
     "url": "https://ftp.gnu.org/gnu/unrtf/$REPO-$VERSION.$SUFFIX",
@@ -36894,7 +36894,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_userv": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "userv"
     },
     "url": "https://ftp.gnu.org/gnu/userv/$REPO-$VERSION.$SUFFIX",
@@ -36948,7 +36948,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_uucp": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "uucp"
     },
     "url": "https://ftp.gnu.org/gnu/uucp/$REPO-$VERSION.$SUFFIX",
@@ -36967,7 +36967,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_vc-dwim": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "vc-dwim"
     },
     "url": "https://ftp.gnu.org/gnu/vc-dwim/$REPO-$VERSION.$SUFFIX",
@@ -37051,7 +37051,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_vcdimager": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "vcdimager"
     },
     "url": "https://ftp.gnu.org/gnu/vcdimager/$REPO-$VERSION.$SUFFIX",
@@ -37090,7 +37090,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_vera": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "vera"
     },
     "url": "https://ftp.gnu.org/gnu/vera/$REPO-$VERSION.$SUFFIX",
@@ -37164,7 +37164,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_wb": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "wb"
     },
     "url": "https://ftp.gnu.org/gnu/wb/$REPO-$VERSION.$SUFFIX",
@@ -37193,7 +37193,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_wdiff": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "wdiff"
     },
     "url": "https://ftp.gnu.org/gnu/wdiff/$REPO-$VERSION.$SUFFIX",
@@ -37272,7 +37272,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_websocket4j": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "websocket4j"
     },
     "url": "https://ftp.gnu.org/gnu/websocket4j/$REPO-$VERSION.$SUFFIX",
@@ -37286,7 +37286,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_wget": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "wget"
     },
     "url": "https://ftp.gnu.org/gnu/wget/$REPO-$VERSION.$SUFFIX",
@@ -37635,7 +37635,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_which": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "which"
     },
     "url": "https://ftp.gnu.org/gnu/which/$REPO-$VERSION.$SUFFIX",
@@ -37669,7 +37669,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_windows": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "windows"
     },
     "url": "https://ftp.gnu.org/gnu/windows/$REPO-$VERSION.$SUFFIX",
@@ -37677,7 +37677,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_xaos": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "xaos"
     },
     "url": "https://ftp.gnu.org/gnu/xaos/$REPO-$VERSION.$SUFFIX",
@@ -37691,7 +37691,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_xboard": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "xboard"
     },
     "url": "https://ftp.gnu.org/gnu/xboard/$REPO-$VERSION.$SUFFIX",
@@ -37795,7 +37795,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_xlogmaster": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "xlogmaster"
     },
     "url": "https://ftp.gnu.org/gnu/xlogmaster/$REPO-$VERSION.$SUFFIX",
@@ -37844,7 +37844,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_xnee": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "xnee"
     },
     "url": "https://ftp.gnu.org/gnu/xnee/$REPO-$VERSION.$SUFFIX",
@@ -38013,7 +38013,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_xorriso": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "xorriso"
     },
     "url": "https://ftp.gnu.org/gnu/xorriso/$REPO-$VERSION.$SUFFIX",
@@ -38242,7 +38242,7 @@ sources_origins = {
   },
   "ftp.gnu.org_gnu_zile": {
     "settings": {
-      "domain": "gnu",
+      "domain": "ftp.gnu.org",
       "owner": "zile"
     },
     "url": "https://ftp.gnu.org/gnu/zile/$REPO-$VERSION.$SUFFIX",
