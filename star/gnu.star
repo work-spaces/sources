@@ -17,7 +17,7 @@ load(
     "capsule_add_checkout_and_run",
 )
 load(
-    "//@sdk/packages/star/github.com/packages.star",
+    "//@star/packages/star/github.com/packages.star",
     github_packages = "packages",
 )
 load("ftp.gnu.org/sources.star", gnu_sources = "sources")
