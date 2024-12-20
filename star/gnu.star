@@ -4,15 +4,15 @@ Build an autotools project
 """
 
 load(
-    "sdk/star/checkout.star",
+    "../sdk/star/checkout.star",
     "checkout_add_archive",
     "checkout_add_platform_archive",
     "checkout_add_repo",
     "checkout_update_env",
 )
-load("sdk/star/run.star", "run_add_exec", "run_add_target")
+load("../sdk/star/run.star", "run_add_exec", "run_add_target")
 load(
-    "sdk/star/capsule.star",
+    "../sdk/star/capsule.star",
     "capsule",
     "capsule_add_checkout_and_run",
 )
