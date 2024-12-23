@@ -12,11 +12,6 @@ load(
 load("//@star/sdk/star/run.star", "run_add_target")
 load("//@star/sdk/star/gnu.star", "gnu_add_configure_make_install")
 load(
-    "//@star/sdk/star/capsule.star",
-    "capsule",
-    "capsule_add_checkout_and_run",
-)
-load(
     "//@star/packages/star/github.com/packages.star",
     github_packages = "packages",
 )
