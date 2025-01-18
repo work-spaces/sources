@@ -25,7 +25,7 @@ def gnu_add_configure_make_install_from_source(
         autoreconf_args = None,
         configure_args = [],
         make_args = [],
-        build_artifact_globs = [],
+        build_artifact_globs = None,
         deps = [],
         install_path = None):
     """
