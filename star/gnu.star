@@ -23,6 +23,7 @@ def gnu_add_configure_make_install_from_source(
         owner,
         repo,
         version,
+        domain = "ftp.gnu.org",
         autoreconf_args = None,
         configure_args = [],
         make_args = [],
@@ -35,6 +36,7 @@ def gnu_add_configure_make_install_from_source(
 
     Args:
         name: The name of the project
+        domain: domain of source (ie: ftp.gnu.org)
         owner: The owner of the repository
         repo: The repository name
         version: The version of the repository
@@ -60,7 +62,7 @@ def gnu_add_configure_make_install_from_source(
     if checkout_rule_type != CHECKOUT_TYPE_OPTIONAL:
         gnu_add_configure_make_install(
             name,
-            source_directory = "{}-{}".format(repo, version),
+            source_directory = "{}/{}-{}".format(domain, repo, version),
             autoreconf_args = autoreconf_args,
             configure_args = configure_args,
             make_args = make_args,
