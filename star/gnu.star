@@ -8,6 +8,7 @@ load(
     "checkout_add_archive",
     "checkout_add_platform_archive",
     "checkout_update_env",
+    "CHECKOUT_TYPE_OPTIONAL",
 )
 load("//@star/sdk/star/run.star", "run_add_target")
 load("//@star/sdk/star/gnu.star", "gnu_add_configure_make_install")
@@ -27,6 +28,7 @@ def gnu_add_configure_make_install_from_source(
         make_args = [],
         build_artifact_globs = None,
         deps = [],
+        checkout_rule_type = None,
         install_path = None):
     """
     Add an autotools project from an archive
@@ -41,6 +43,7 @@ def gnu_add_configure_make_install_from_source(
         make_args: The arguments to pass to the make
         build_artifact_globs: The globs to match the build artifacts
         deps: The dependencies of the project
+        checkout_rule_type: the checkout rule type. Use Optional to skip
         install_path: The path to install the project
     """
 
@@ -51,24 +54,27 @@ def gnu_add_configure_make_install_from_source(
         checkout_archive_rule,
         url = source_archive["url"],
         sha256 = source_archive["sha256"],
+        type = checkout_rule_type
     )
 
-    gnu_add_configure_make_install(
-        name,
-        source_directory = "{}-{}".format(repo, version),
-        autoreconf_args = autoreconf_args,
-        configure_args = configure_args,
-        make_args = make_args,
-        deps = deps,
-        build_artifact_globs = build_artifact_globs,
-        install_path = install_path,
-    )
+    if checkout_rule_type != CHECKOUT_TYPE_OPTIONAL:
+        gnu_add_configure_make_install(
+            name,
+            source_directory = "{}-{}".format(repo, version),
+            autoreconf_args = autoreconf_args,
+            configure_args = configure_args,
+            make_args = make_args,
+            deps = deps,
+            build_artifact_globs = build_artifact_globs,
+            install_path = install_path,
+        )
 
 def gnu_add_autotools_from_source(
         name,
         autoconf_version,
         automake_version,
         libtool_version,
+        checkout_rule_type = None,
         install_path = None):
     """
     Add the autotools from source
@@ -78,6 +84,7 @@ def gnu_add_autotools_from_source(
         autoconf_version: The version of autoconf
         automake_version: The version of automake
         libtool_version: The version of libtool
+        checkout_rule_type: The checkout rule type
         install_path: The path to install the autotools
     """
 
@@ -93,6 +100,7 @@ def gnu_add_autotools_from_source(
     checkout_add_platform_archive(
         "m4-1",
         platforms = github_packages["xpack-dev-tools"]["m4-xpack"]["v1.4.19-3"],
+        type = checkout_rule_type,
     )
 
     gnu_add_configure_make_install_from_source(
@@ -101,6 +109,7 @@ def gnu_add_autotools_from_source(
         "autoconf",
         autoconf_version,
         install_path = effective_install_path,
+        type = type,
     )
 
     gnu_add_configure_make_install_from_source(
@@ -110,6 +119,7 @@ def gnu_add_autotools_from_source(
         automake_version,
         deps = [autoconf_install_rule],
         install_path = effective_install_path,
+        checkout_rule_type = checkout_rule_type
     )
 
     gnu_add_configure_make_install_from_source(
@@ -119,16 +129,19 @@ def gnu_add_autotools_from_source(
         libtool_version,
         deps = [autoconf_install_rule],
         install_path = effective_install_path,
+        checkout_rule_type = checkout_rule_type
     )
 
     checkout_update_env(
         update_env_rule,
         paths = ["{}/bin".format(effective_install_path)],
+        type = checkout_rule_type
     )
 
-    run_add_target(name, deps = [
-        autoconf_install_rule,
-        "{}_install".format(automake_rule),
-        "{}_install".format(libtool_rule),
-    ])
+    if type != CHECKOUT_TYPE_OPTIONAL:
+        run_add_target(name, deps = [
+            autoconf_install_rule,
+            "{}_install".format(automake_rule),
+            "{}_install".format(libtool_rule),
+        ])
 
