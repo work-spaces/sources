@@ -56,7 +56,8 @@ def gnu_add_configure_make_install_from_source(
         checkout_archive_rule,
         url = source_archive["url"],
         sha256 = source_archive["sha256"],
-        type = checkout_rule_type
+        type = checkout_rule_type,
+        add_prefix = domain
     )
 
     if checkout_rule_type != CHECKOUT_TYPE_OPTIONAL:
