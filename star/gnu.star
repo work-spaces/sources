@@ -17,7 +17,7 @@ load(
     github_packages = "packages",
 )
 load("ftp.gnu.org/sources.star", gnu_sources = "sources")
-load("//@star/sdk/star/workspace.star", "workspace_get_absolute_path")
+load("//@star/sdk/star/ws.star", "workspace_get_absolute_path")
 
 def gnu_add_configure_make_install_from_source(
         name,
