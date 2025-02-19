@@ -17,6 +17,7 @@ load(
     github_packages = "packages",
 )
 load("ftp.gnu.org/sources.star", gnu_sources = "sources")
+load("//@star/sdk/star/workspace.star", "workspace_get_absolute_path")
 
 def gnu_add_configure_make_install_from_source(
         name,
@@ -97,7 +98,7 @@ def gnu_add_autotools_from_source(
     libtool_rule = "{}_libtool".format(name)
     update_env_rule = "{}_update_env".format(name)
 
-    workspace = info.get_absolute_path_to_workspace()
+    workspace = workspace_get_absolute_path()
     effective_install_path = "{}/build/install/autotools".format(workspace) if install_path == None else install_path
 
     checkout_add_platform_archive(
